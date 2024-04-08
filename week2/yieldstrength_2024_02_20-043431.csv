@@ -1,0 +1,638 @@
+Material,Value
+ Aluminum             ,276
+ Steel                ,250
+ Copper               ,220
+ Titanium             ,950
+ Nickel               ,140
+ Brass                ,345
+ Bronze               ,350
+ Zinc                 ,120
+ Iron                 ,350
+ Lead                 ,12
+ Magnesium            ,160
+ Tungsten             ,550
+ Silver               ,170
+ Gold                 ,130
+ Platinum             ,125
+ Carbon Steel         ,380
+ Stainless Steel      ,210
+ Cast Iron            ,200
+ Inconel              ,240
+ Monel                ,400
+ Hastelloy            ,300
+ Invar                ,240
+ Beryllium            ,240
+ Tantalum             ,180
+ Zirconium            ,330
+ Molybdenum           ,345
+ Cobalt               ,620
+ Vanadium             ,280
+ Niobium              ,275
+ Tantalum             ,180
+ Zirconium            ,330
+ Molybdenum           ,345
+ Cobalt               ,620
+ Vanadium             ,280
+ Niobium              ,275
+ Tantalum             ,180
+ Zirconium            ,330
+ Molybdenum           ,345
+ Cobalt               ,620
+ Vanadium             ,280
+ Niobium              ,275
+ Tantalum             ,180
+ Zirconium            ,330
+ Molybdenum           ,345
+ Cobalt               ,620
+ Vanadium             ,280
+ Niobium              ,275
+ Aluminum             ,276
+ Steel                ,250
+ Copper               ,220
+ Titanium             ,950
+ Nickel               ,140
+ Brass                ,345
+ Bronze               ,350
+ Zinc                 ,120
+ Iron                 ,350
+ Lead                 ,12
+ Magnesium            ,160
+ Tungsten             ,550
+ Silver               ,170
+ Gold                 ,130
+ Platinum             ,125
+ Carbon Steel         ,380
+ Stainless Steel      ,210
+ Cast Iron            ,200
+ Inconel              ,240
+ Monel                ,400
+ Hastelloy            ,300
+ Invar                ,240
+ Beryllium            ,240
+ Tantalum             ,180
+ Zirconium            ,330
+ Molybdenum           ,345
+ Cobalt               ,620
+ Vanadium             ,280
+ Niobium              ,275
+ Aluminum Alloy       ,310
+ Beryllium Copper     ,165
+ Cadmium              ,70
+ Chromium             ,275
+ Cobalt Chrome        ,850
+ Incoloy              ,300
+ Invar 36             ,240
+ Kovar                ,240
+ Haynes               ,300
+ Rene Alloy           ,550
+ Waspaloy             ,1000
+ Maraging Steel       ,2400
+ Silicon              ,210
+ Silicon Carbide      ,550
+ Tungsten Carbide     ,3447
+ Tool Steel           ,250
+ Vanadium Steel       ,500
+ Tantalum Alloy       ,180
+ Zirconium Alloy      ,330
+ Molybdenum Alloy     ,345
+ Cobalt Alloy         ,620
+ Vanadium Alloy       ,280
+ Niobium Alloy        ,275
+ Titanium Alloy       ,900
+ Aluminum Bronze      ,240
+ Nickel Alloy         ,140
+ Lead Alloy           ,12
+ Magnesium Alloy      ,160
+ Silver Alloy         ,170
+ Aluminum             ,276
+ Steel                ,250
+ Copper               ,220
+ Titanium             ,950
+ Nickel               ,140
+ Brass                ,345
+ Bronze               ,350
+ Zinc                 ,120
+ Iron                 ,350
+ Lead                 ,12
+ Magnesium            ,160
+ Tungsten             ,550
+ Silver               ,170
+ Gold                 ,130
+ Platinum             ,125
+ Carbon Steel         ,380
+ Stainless Steel      ,210
+ Cast Iron            ,200
+ Inconel              ,240
+ Monel                ,400
+ Hastelloy            ,300
+ Invar                ,240
+ Beryllium            ,240
+ Tantalum             ,180
+ Zirconium            ,330
+ Molybdenum           ,345
+ Cobalt               ,620
+ Vanadium             ,280
+ Niobium              ,275
+ Aluminum Alloy       ,310
+ Beryllium Copper     ,165
+ Cadmium              ,70
+ Chromium             ,275
+ Cobalt Chrome        ,850
+ Incoloy              ,300
+ Invar 36             ,240
+ Kovar                ,240
+ Haynes               ,300
+ Rene Alloy           ,550
+ Waspaloy             ,1000
+ Maraging Steel       ,2400
+ Silicon              ,210
+ Silicon Carbide      ,550
+ Tungsten Carbide     ,3447
+ Tool Steel           ,250
+ Vanadium Steel       ,500
+ Titanium Alloy       ,900
+ Aluminum Bronze      ,240
+ Nickel Alloy         ,140
+ Lead Alloy           ,12
+ Magnesium Alloy      ,160
+ Silver Alloy         ,170
+ HSLA Steel           ,550
+ Low Carbon Steel     ,210
+ Medium Carbon Steel  ,420
+ High Carbon Steel    ,500
+ Spring Steel         ,620
+ Galvanized Steel     ,340
+ 4130 Steel           ,560
+ 4140 Steel           ,620
+ 4340 Steel           ,930
+ 8620 Steel           ,620
+ 52100 Steel          ,600
+ A36 Steel            ,250
+ 6061 Aluminum        ,240
+ 7075 Aluminum        ,450
+ 2024 Aluminum        ,240
+ 5052 Aluminum        ,210
+ 6063 Aluminum        ,240
+ 2014 Aluminum        ,240
+ 3003 Aluminum        ,110
+ 5056 Aluminum        ,240
+ 5086 Aluminum        ,240
+ 6061 Aluminum Alloy  ,240
+ 7075 Aluminum Alloy  ,450
+ 2024 Aluminum Alloy  ,240
+ 5052 Aluminum Alloy  ,210
+ 6063 Aluminum Alloy  ,240
+ 2014 Aluminum Alloy  ,240
+ 3003 Aluminum Alloy  ,110
+ 5056 Aluminum Alloy  ,240
+ 5086 Aluminum Alloy  ,240
+ Aluminum             ,276
+ Steel                ,250
+ Copper               ,220
+ Titanium             ,950
+ Nickel               ,140
+ Brass                ,345
+ Bronze               ,350
+ Zinc                 ,120
+ Iron                 ,350
+ Lead                 ,12
+ Magnesium            ,160
+ Tungsten             ,550
+ Silver               ,170
+ Gold                 ,130
+ Platinum             ,125
+ Carbon Steel         ,380
+ Stainless Steel      ,210
+ Cast Iron            ,200
+ Inconel              ,240
+ Monel                ,400
+ Hastelloy            ,300
+ Invar                ,240
+ Beryllium            ,240
+ Tantalum             ,180
+ Zirconium            ,330
+ Molybdenum           ,345
+ Cobalt               ,620
+ Vanadium             ,280
+ Niobium              ,275
+ Aluminum Alloy       ,310
+ Beryllium Copper     ,165
+ Cadmium              ,70
+ Chromium             ,275
+ Cobalt Chrome        ,850
+ Incoloy              ,300
+ Invar 36             ,240
+ Kovar                ,240
+ Haynes               ,300
+ Rene Alloy           ,550
+ Waspaloy             ,1000
+ Maraging Steel       ,2400
+ Silicon              ,210
+ Silicon Carbide      ,550
+ Tungsten Carbide     ,3447
+ Tool Steel           ,250
+ Vanadium Steel       ,500
+ Titanium Alloy       ,900
+ Aluminum Bronze      ,240
+ Nickel Alloy         ,140
+ Lead Alloy           ,12
+ Magnesium Alloy      ,160
+ Silver Alloy         ,170
+ HSLA Steel           ,550
+ Low Carbon Steel     ,210
+ Medium Carbon Steel  ,420
+ High Carbon Steel    ,500
+ Spring Steel         ,620
+ Galvanized Steel     ,340
+ 4130 Steel           ,560
+ 4140 Steel           ,620
+ 4340 Steel           ,930
+ 8620 Steel           ,620
+ 52100 Steel          ,600
+ A36 Steel            ,250
+ 6061 Aluminum        ,240
+ 7075 Aluminum        ,450
+ 2024 Aluminum        ,240
+ 5052 Aluminum        ,210
+ 6063 Aluminum        ,240
+ 2014 Aluminum        ,240
+ 3003 Aluminum        ,110
+ 5056 Aluminum        ,240
+ 5086 Aluminum        ,240
+ 6061 Aluminum Alloy  ,240
+ 7075 Aluminum Alloy  ,450
+ 2024 Aluminum Alloy  ,240
+ 5052 Aluminum Alloy  ,210
+ 6063 Aluminum Alloy  ,240
+ 2014 Aluminum Alloy  ,240
+ 3003 Aluminum Alloy  ,110
+ 5056 Aluminum Alloy  ,240
+ 5086 Aluminum Alloy  ,240
+ 2017 Aluminum Alloy  ,240
+ 2021 Aluminum Alloy  ,240
+ 2219 Aluminum Alloy  ,240
+ 2618 Aluminum Alloy  ,240
+ 4032 Aluminum Alloy  ,240
+ 6013 Aluminum Alloy  ,240
+ 7049 Aluminum Alloy  ,240
+ 7050 Aluminum Alloy  ,460
+ 7072 Aluminum Alloy  ,240
+ 7175 Aluminum Alloy  ,460
+ 7475 Aluminum Alloy  ,460
+ 6066 Aluminum Alloy  ,240
+ 2011 Aluminum Alloy  ,240
+ 2026 Aluminum Alloy  ,240
+ Aluminum             ,276
+ Steel                ,250
+ Copper               ,220
+ Titanium             ,950
+ Nickel               ,140
+ Brass                ,345
+ Bronze               ,350
+ Zinc                 ,120
+ Iron                 ,350
+ Lead                 ,12
+ Magnesium            ,160
+ Tungsten             ,550
+ Silver               ,170
+ Gold                 ,130
+ Platinum             ,125
+ Carbon Steel         ,380
+ Stainless Steel      ,210
+ Cast Iron            ,200
+ Inconel              ,240
+ Monel                ,400
+ Hastelloy            ,300
+ Invar                ,240
+ Beryllium            ,240
+ Tantalum             ,180
+ Zirconium            ,330
+ Molybdenum           ,345
+ Cobalt               ,620
+ Vanadium             ,280
+ Niobium              ,275
+ Aluminum Alloy       ,310
+ Beryllium Copper     ,165
+ Cadmium              ,70
+ Chromium             ,275
+ Cobalt Chrome        ,850
+ Incoloy              ,300
+ Invar 36             ,240
+ Kovar                ,240
+ Haynes               ,300
+ Rene Alloy           ,550
+ Waspaloy             ,1000
+ Maraging Steel       ,2400
+ Silicon              ,210
+ Silicon Carbide      ,550
+ Tungsten Carbide     ,3447
+ Tool Steel           ,250
+ Vanadium Steel       ,500
+ Titanium Alloy       ,900
+ Aluminum Bronze      ,240
+ Nickel Alloy         ,140
+ Lead Alloy           ,12
+ Magnesium Alloy      ,160
+ Silver Alloy         ,170
+ HSLA Steel           ,550
+ Low Carbon Steel     ,210
+ Medium Carbon Steel  ,420
+ High Carbon Steel    ,500
+ Spring Steel         ,620
+ Galvanized Steel     ,340
+ 4130 Steel           ,560
+ 4140 Steel           ,620
+ 4340 Steel           ,930
+ 8620 Steel           ,620
+ 52100 Steel          ,600
+ A36 Steel            ,250
+ 6061 Aluminum        ,240
+ 7075 Aluminum        ,450
+ 2024 Aluminum        ,240
+ 5052 Aluminum        ,210
+ 6063 Aluminum        ,240
+ 2014 Aluminum        ,240
+ 3003 Aluminum        ,110
+ 5056 Aluminum        ,240
+ 5086 Aluminum        ,240
+ 6061 Aluminum Alloy  ,240
+ 7075 Aluminum Alloy  ,450
+ 2024 Aluminum Alloy  ,240
+ 5052 Aluminum Alloy  ,210
+ 6063 Aluminum Alloy  ,240
+ 2014 Aluminum Alloy  ,240
+ 3003 Aluminum Alloy  ,110
+ 5056 Aluminum Alloy  ,240
+ 5086 Aluminum Alloy  ,240
+ 2017 Aluminum Alloy  ,240
+ 2021 Aluminum Alloy  ,240
+ 2219 Aluminum Alloy  ,240
+ 2618 Aluminum Alloy  ,240
+ 4032 Aluminum Alloy  ,240
+ 6013 Aluminum Alloy  ,240
+ 7049 Aluminum Alloy  ,240
+ 7050 Aluminum Alloy  ,460
+ 7072 Aluminum Alloy  ,240
+ 7175 Aluminum Alloy  ,460
+ 7475 Aluminum Alloy  ,460
+ 6066 Aluminum Alloy  ,240
+ 2011 Aluminum Alloy  ,240
+ 2026 Aluminum Alloy  ,240
+ 2099 Aluminum Alloy  ,240
+ 2124 Aluminum Alloy  ,240
+ 2219 Aluminum Alloy  ,240
+ 2324 Aluminum Alloy  ,240
+ 2397 Aluminum Alloy  ,240
+ 4032 Aluminum Alloy  ,240
+ 6013 Aluminum Alloy  ,240
+ 7049 Aluminum Alloy  ,240
+ 7050 Aluminum Alloy  ,460
+ 7072 Aluminum Alloy  ,240
+ 7175 Aluminum Alloy  ,460
+ 7475 Aluminum Alloy  ,460
+ 6066 Aluminum Alloy  ,240
+ 2011 Aluminum Alloy  ,240
+ 2026 Aluminum Alloy  ,240
+ 2099 Aluminum Alloy  ,240
+ 2124 Aluminum Alloy  ,240
+ 2219 Aluminum Alloy  ,240
+ 2324 Aluminum Alloy  ,240
+ 2397 Aluminum Alloy  ,240
+ 4032 Aluminum Alloy  ,240
+ 6013 Aluminum Alloy  ,240
+ 7049 Aluminum Alloy  ,240
+ 7050 Aluminum Alloy  ,460
+ 7072 Aluminum Alloy  ,240
+ 7175 Aluminum Alloy  ,460
+ 7475 Aluminum Alloy  ,460
+ 6066 Aluminum Alloy  ,240
+ 2011 Aluminum Alloy  ,240
+ 2026 Aluminum Alloy  ,240
+ 2099 Aluminum Alloy  ,240
+ 2124 Aluminum Alloy  ,240
+ 2219 Aluminum Alloy  ,240
+ 2324 Aluminum Alloy  ,240
+ 2397 Aluminum Alloy  ,240
+ 4032 Aluminum Alloy  ,240
+ 6013 Aluminum Alloy  ,240
+ 7049 Aluminum Alloy  ,240
+ 7050 Aluminum Alloy  ,460
+ 7072 Aluminum Alloy  ,240
+ 7175 Aluminum Alloy  ,460
+ 7475 Aluminum Alloy  ,460
+ 6066 Aluminum Alloy  ,240
+ 2011 Aluminum Alloy  ,240
+ 2026 Aluminum Alloy  ,240
+ 2099 Aluminum Alloy  ,240
+ 2124 Aluminum Alloy  ,240
+ 2219 Aluminum Alloy  ,240
+ 2324 Aluminum Alloy  ,240
+ 2397 Aluminum Alloy  ,240
+ 4032 Aluminum Alloy  ,240
+ 6013 Aluminum Alloy  ,240
+ 7049 Aluminum Alloy  ,240
+ 7050 Aluminum Alloy  ,460
+ 7072 Aluminum Alloy  ,240
+ 7175 Aluminum Alloy  ,460
+ 7475 Aluminum Alloy  ,460
+ 6066 Aluminum Alloy  ,240
+ 2011 Aluminum Alloy  ,240
+ 2026 Aluminum Alloy  ,240
+ 2099 Aluminum Alloy  ,240
+ 2124 Aluminum Alloy  ,240
+ 2219 Aluminum Alloy  ,240
+ 2324 Aluminum Alloy  ,240
+ 2397 Aluminum Alloy  ,240
+ 4032 Aluminum Alloy  ,240
+ 6013 Aluminum Alloy  ,240
+ 7049 Aluminum Alloy  ,240
+ 7050 Aluminum Alloy  ,460
+ 7072 Aluminum Alloy  ,240
+ 7175 Aluminum Alloy  ,460
+ 7475 Aluminum Alloy  ,460
+ 6066 Aluminum Alloy  ,240
+ 2011 Aluminum Alloy  ,240
+ 2026 Aluminum Alloy  ,240
+ 2099 Aluminum Alloy  ,240
+ 2124 Aluminum Alloy  ,240
+ 2219 Aluminum Alloy  ,240
+ 2324 Aluminum Alloy  ,240
+ 2397 Aluminum Alloy  ,240
+ 4032 Aluminum Alloy  ,240
+ 6013 Aluminum Alloy  ,240
+ 7049 Aluminum Alloy  ,240
+ 7050 Aluminum Alloy  ,460
+ 7072 Aluminum Alloy  ,240
+ 7175 Aluminum Alloy  ,460
+ 7475 Aluminum Alloy  ,460
+ 6066 Aluminum Alloy  ,240
+ 2011 Aluminum Alloy  ,240
+ 2026 Aluminum Alloy  ,240
+ 2099 Aluminum Alloy  ,240
+ 2124 Aluminum Alloy  ,240
+ 2219 Aluminum Alloy  ,240
+ 2324 Aluminum Alloy  ,240
+ 2397 Aluminum Alloy  ,240
+ 4032 Aluminum Alloy  ,240
+ 6013 Aluminum Alloy  ,240
+ 7049 Aluminum Alloy  ,240
+ 7050 Aluminum Alloy  ,460
+ 7072 Aluminum Alloy  ,240
+ 7175 Aluminum Alloy  ,460
+ 7475 Aluminum Alloy  ,460
+ 6066 Aluminum Alloy  ,240
+ 2011 Aluminum Alloy  ,240
+ 2026 Aluminum Alloy  ,240
+ 2099 Aluminum Alloy  ,240
+ 2124 Aluminum Alloy  ,240
+ 2219 Aluminum Alloy  ,240
+ 2324 Aluminum Alloy  ,240
+ 2397 Aluminum Alloy  ,240
+ 4032 Aluminum Alloy  ,240
+ 6013 Aluminum Alloy  ,240
+ 7049 Aluminum Alloy  ,240
+ 7050 Aluminum Alloy  ,460
+ 7072 Aluminum Alloy  ,240
+ 7175 Aluminum Alloy  ,460
+ 7475 Aluminum Alloy  ,460
+ 6066 Aluminum Alloy  ,240
+ 2011 Aluminum Alloy  ,240
+ 2026 Aluminum Alloy  ,240
+ 2099 Aluminum Alloy  ,240
+ 2124 Aluminum Alloy  ,240
+ 2219 Aluminum Alloy  ,240
+ 2324 Aluminum Alloy  ,240
+ 2397 Aluminum Alloy  ,240
+ 4032 Aluminum Alloy  ,240
+ 6013 Aluminum Alloy  ,240
+ 7049 Aluminum Alloy  ,240
+ 7050 Aluminum Alloy  ,460
+ 7072 Aluminum Alloy  ,240
+ 7175 Aluminum Alloy  ,460
+ 7475 Aluminum Alloy  ,460
+ 6066 Aluminum Alloy  ,240
+ 2011 Aluminum Alloy  ,240
+ 2026 Aluminum Alloy  ,240
+ 2099 Aluminum Alloy  ,240
+ 2124 Aluminum Alloy  ,240
+ 2219 Aluminum Alloy  ,240
+ 2324 Aluminum Alloy  ,240
+ 2397 Aluminum Alloy  ,240
+ 4032 Aluminum Alloy  ,240
+ 6013 Aluminum Alloy  ,240
+ 7049 Aluminum Alloy  ,240
+ 7050 Aluminum Alloy  ,460
+ 7072 Aluminum Alloy  ,240
+ 7175 Aluminum Alloy  ,460
+ 7475 Aluminum Alloy  ,460
+ 6066 Aluminum Alloy  ,240
+ 2011 Aluminum Alloy  ,240
+ 2026 Aluminum Alloy  ,240
+ 2099 Aluminum Alloy  ,240
+ 2124 Aluminum Alloy  ,240
+ 2219 Aluminum Alloy  ,240
+ 2324 Aluminum Alloy  ,240
+ 2397 Aluminum Alloy  ,240
+ 4032 Aluminum Alloy  ,240
+ 6013 Aluminum Alloy  ,240
+ 7049 Aluminum Alloy  ,240
+ 7050 Aluminum Alloy  ,460
+ 7072 Aluminum Alloy  ,240
+ 7175 Aluminum Alloy  ,460
+ 7475 Aluminum Alloy  ,460
+ 6066 Aluminum Alloy  ,240
+ 2011 Aluminum Alloy  ,240
+ 2026 Aluminum Alloy  ,240
+ 2099 Aluminum Alloy  ,240
+ 2124 Aluminum Alloy  ,240
+ 2219 Aluminum Alloy  ,240
+ 2324 Aluminum Alloy  ,240
+ 2397 Aluminum Alloy  ,240
+ 4032 Aluminum Alloy  ,240
+ 6013 Aluminum Alloy  ,240
+ 7049 Aluminum Alloy  ,240
+ 7050 Aluminum Alloy  ,460
+ 7072 Aluminum Alloy  ,240
+ 7175 Aluminum Alloy  ,460
+ 7475 Aluminum Alloy  ,460
+ 6066 Aluminum Alloy  ,240
+ 2011 Aluminum Alloy  ,240
+ 2026 Aluminum Alloy  ,240
+ 2099 Aluminum Alloy  ,240
+ 2124 Aluminum Alloy  ,240
+ 2219 Aluminum Alloy  ,240
+ 2324 Aluminum Alloy  ,240
+ 2397 Aluminum Alloy  ,240
+ 4032 Aluminum Alloy  ,240
+ 6013 Aluminum Alloy  ,240
+ 7049 Aluminum Alloy  ,240
+ 7050 Aluminum Alloy  ,460
+ 7072 Aluminum Alloy  ,240
+ 7175 Aluminum Alloy  ,460
+ 7475 Aluminum Alloy  ,460
+ 6066 Aluminum Alloy  ,240
+ 2011 Aluminum Alloy  ,240
+ 2026 Aluminum Alloy  ,240
+ 2099 Aluminum Alloy  ,240
+ 2124 Aluminum Alloy  ,240
+ 2219 Aluminum Alloy  ,240
+ 2324 Aluminum Alloy  ,240
+ 2397 Aluminum Alloy  ,240
+ 4032 Aluminum Alloy  ,240
+ 6013 Aluminum Alloy  ,240
+ 7049 Aluminum Alloy  ,240
+ 7050 Aluminum Alloy  ,460
+ 7072 Aluminum Alloy  ,240
+ 7175 Aluminum Alloy  ,460
+ 7475 Aluminum Alloy  ,460
+ 6066 Aluminum Alloy  ,240
+ 2011 Aluminum Alloy  ,240
+ 2026 Aluminum Alloy  ,240
+ 2099 Aluminum Alloy  ,240
+ 2124 Aluminum Alloy  ,240
+ 2219 Aluminum Alloy  ,240
+ 2324 Aluminum Alloy  ,240
+ 2397 Aluminum Alloy  ,240
+ 4032 Aluminum Alloy  ,240
+ 6013 Aluminum Alloy  ,240
+ 7049 Aluminum Alloy  ,240
+ 7050 Aluminum Alloy  ,460
+ 7072 Aluminum Alloy  ,240
+ 7175 Aluminum Alloy  ,460
+ 7475 Aluminum Alloy  ,460
+ 6066 Aluminum Alloy  ,240
+ 2011 Aluminum Alloy  ,240
+ 2026 Aluminum Alloy  ,240
+ 2099 Aluminum Alloy  ,240
+ 2124 Aluminum Alloy  ,240
+ 2219 Aluminum Alloy  ,240
+ 2324 Aluminum Alloy  ,240
+ 2397 Aluminum Alloy  ,240
+ 4032 Aluminum Alloy  ,240
+ 6013 Aluminum Alloy  ,240
+ 7049 Aluminum Alloy  ,240
+ 7050 Aluminum Alloy  ,460
+ 7072 Aluminum Alloy  ,240
+ 7175 Aluminum Alloy  ,460
+ 7475 Aluminum Alloy  ,460
+ 6066 Aluminum Alloy  ,240
+ 2011 Aluminum Alloy  ,240
+ 2026 Aluminum Alloy  ,240
+ 2099 Aluminum Alloy  ,240
+ 2124 Aluminum Alloy  ,240
+ 2219 Aluminum Alloy  ,240
+ 2324 Aluminum Alloy  ,240
+ 2397 Aluminum Alloy  ,240
+ 4032 Aluminum Alloy  ,240
+ 6013 Aluminum Alloy  ,240
+ 7049 Aluminum Alloy  ,240
+ 7050 Aluminum Alloy  ,460
+ 7072 Aluminum Alloy  ,240
+ 7175 Aluminum Alloy  ,460
+ 7475 Aluminum Alloy  ,460
+ 6066 Aluminum Alloy  ,240
+ 2011 Aluminum Alloy  ,240
+ 2026 Aluminum Alloy  ,240
+ 2099 Aluminum Alloy  ,240
+ 2124 Aluminum Alloy  ,240
+ 2219 Aluminum Alloy  ,240

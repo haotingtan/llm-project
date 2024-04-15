@@ -1,0 +1,33 @@
+---
+title: "clean_off"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r setup, include=F, echo=F}
+library("readxl")
+library(dplyr) 
+library(tidyverse) 
+```
+
+```{r}
+orig_df <- read_excel("YieldStrength_HEAs_database_MPPolak_DMorgan.xlsx")
+
+filter_df = orig_df %>%
+  mutate(is_numeric = !is.na(as.numeric(value))) %>%
+  filter(tolower(unit) == 'mpa' | tolower(unit) == 'gpa') %>%
+  filter(is_numeric) %>%
+  mutate(value = as.numeric(value)) %>%
+  mutate(value = case_when(
+    tolower(unit) == "mpa" ~ value,
+    tolower(unit) == "gpa" ~ value*1000,
+    .default = value
+  )) %>%
+  select(material, value, passage)
+
+write.csv(filter_df, file = "yield_strength_GTD.csv", row.names = FALSE)
+```
+
